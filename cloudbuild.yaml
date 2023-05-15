@@ -14,3 +14,5 @@ steps:
   - --location=us-central1-c
   - --cluster=cluster-1
   - --namespace=gcp-devops-prod
+
+  # Remember to enable access credentials in cloud build and kubernetes engine
