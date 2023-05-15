@@ -16,3 +16,4 @@ steps:
   - --namespace=gcp-devops-prod
 
   # Remember to enable access credentials in cloud build and kubernetes engine
+  # Rebuild Docker Image now
